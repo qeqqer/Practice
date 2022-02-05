@@ -1,3 +1,4 @@
+#2525
 h, m = map(int,input().split()) #A=hour B=min
 cook_min = int(input()) #need min
 
